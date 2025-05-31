@@ -2,27 +2,64 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/cumbucadev/design/raw/main/images/logo-dark-transparent.png"
+      srcset="imagens/Cumbuca Dev Floripa0.png"
     >
     <img
       alt="Logo do Cumbuca Dev"
-      src="https://github.com/cumbucadev/design/raw/main/images/logo-light-transparent.png"
-      width="20%"
+      src="imagens/Cumbuca Dev Floripa0.png"
+      width="100%"
     >
   </picture>
 </div>
 
-# <nome-do-repositório>
+# Cumbuca Dev Floripa
 
 [English Version](/README_EN.md)
 
-## 💬 Novos Funcionalidades e Reportar Bugs
 
-Caso queira sugerir novas funcionalidades ou reportar bugs, basta criar
-uma nova [issue][github-issues] e iremos lhe responder por lá!
+Repositório oficial do **Cumbuca Dev Floripa**, primeiro evento presencial da Cumbuca Dev, que acontecerá no dia **31 de maio de 2025**, no **Sebrae Startups – Florianópolis/SC**.
 
-(Para saber mais sobre github issues, confira a
-[documentação oficial do GitHub][github-issues-doc]).
+Este espaço foi criado para garantir **transparência** e **compartilhar informações importantes** com todas as pessoas que apoiam, participam ou se inspiram no nosso trabalho.
+
+---
+
+## 📌 Estrutura do repositório
+
+- `evento_codigo-de-conduta.md` → Regras de convivência e participação no evento.
+- `valores-recebidos.md` → Lista dos apoios e patrocínios recebidos (**em atualização**).
+- `gastos.md` → Prestação de contas detalhada dos custos do evento (**em atualização**).
+- `valores-arrecadados.md` → Relatório da arrecadação total no evento (**em atualização**).
+- `venda-iphones.md` → Informações sobre a venda exclusiva de iPhones, com valores especiais destinados integralmente ao financiamento do evento.
+
+---
+
+## 🗓️ Sobre o evento
+
+O **Cumbuca Dev Floripa** será um encontro dedicado à:
+
+- **Troca de experiências**;
+- **Lançamento do curso GitHub Essentials**;
+- **Contribuição para projetos de código aberto**;
+- **Reflexão sobre a realidade do mercado tech**.
+
+O evento acontecerá de forma **presencial** e **online**, reforçando nosso compromisso com a **acessibilidade**, o **acolhimento** e a **inclusão**.
+
+---
+
+## 🔗 Links importantes
+
+- Página oficial do evento: https://tech.floripa.br/eventos/cumbuca-dev-floripa/
+- Transmissão ao vivo: https://www.youtube.com/live/OCruZFAb8Hg?si=01XApQdy6Iz9oq_V
+- Cumbuca Dev: https://github.com/cumbucadev
+- Design Líquido: https://github.com/DesignLiquido
+
+---
+
+## 💜 Nosso compromisso
+
+Seguimos construindo uma comunidade **ética**, **acolhedora** e **transparente**, onde todas as pessoas possam participar, aprender e crescer.
+
+**Muito obrigada a todas as pessoas que apoiam essa iniciativa!**
 
 ## 💡 Dúvidas? Ideias?
 
@@ -57,3 +94,17 @@ _Made with [contrib.rocks](https://contrib.rocks)._
 [github-discussions]: https://github.com/cumbucadev/<nome-do-repositório>/discussions
 [github-issues-doc]: https://docs.github.com/pt/issues/tracking-your-work-with-issues/creating-an-issue
 [github-issues]: https://github.com/cumbucadev/<nome-do-repositório>/issues
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/cumbucadev/design/raw/main/images/logo-dark-transparent.png"
+    >
+    <img
+      alt="Logo do Cumbuca Dev"
+      src="https://github.com/cumbucadev/design/raw/main/images/logo-light-transparent.png"
+      width="20%"
+    >
+  </picture>
+</div>  

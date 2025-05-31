@@ -2,25 +2,63 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/cumbucadev/design/raw/main/images/logo-dark-transparent.png"
+      srcset="imagens/Cumbuca Dev Floripa0.png"
     >
     <img
       alt="Logo do Cumbuca Dev"
-      src="https://github.com/cumbucadev/design/raw/main/images/logo-light-transparent.png"
-      width="20%"
+      src="imagens/Cumbuca Dev Floripa0.png"
+      width="100%"
     >
   </picture>
 </div>
 
-# <nome-do-repositório>
+# Cumbuca Dev Floripa
 
 [Versão em Português](/README.md)
 
-## 💬 New Features and Reporting Bugs
+Official repository of **Cumbuca Dev Floripa**, the first in-person event organized by Cumbuca Dev, scheduled for **May 31st, 2025**, at **Sebrae Startups – Florianópolis/SC**.
 
-If you would like to suggest new features or report bugs, just create a new [issue][github-issues] and we will respond there!
+This space was created to ensure **transparency** and to **share important information** with everyone who supports, participates, or is inspired by our work.
 
-(To learn more about GitHub issues, check out the [official GitHub documentation][github-issues-doc]).
+---
+
+## 📌 Repository Structure
+
+- `evento_codigo-de-conduta.md`→ Rules of conduct and participation for the event.
+- `valores-recebidos.md` → List of financial support and sponsorships (**in progress**).
+- `gastos.md` → Detailed report of event expenses (**in progress**).
+- `valores-arrecadados.md` → Report of the total funds raised at the event (**in progress**).
+- `venda-iphones.md` → Information about the exclusive iPhone sale, with special pricing entirely allocated to fund the event.
+
+---
+
+## 🗓️ About the event
+
+**Cumbuca Dev Floripa** will be a gathering focused on:
+
+- **Exchanging experiences**;  
+- **Launching the GitHub Essentials course**;  
+- **Contributing to open-source projects**;  
+- **Reflecting on the realities of the tech industry**.
+
+The event will take place both **in-person** and **online**, reinforcing our commitment to **accessibility**, **inclusivity**, and **community support**.
+
+---
+
+## 🔗 Important links
+
+- Official event page: https://tech.floripa.br/eventos/cumbuca-dev-floripa/
+- Live stream: https://www.youtube.com/live/OCruZFAb8Hg?si=01XApQdy6Iz9oq_V
+- Cumbuca Dev: https://github.com/cumbucadev
+- Design Líquido: https://github.com/DesignLiquido
+
+---
+
+## 💜 Our commitment
+
+We continue building an **ethical**, **welcoming**, and **transparent** community, where everyone can participate, learn, and grow.
+
+**Thank you to everyone supporting this initiative!**
 
 ## 💡 Questions? Ideas?
 
@@ -45,6 +83,20 @@ Make sure to read these files carefully before contributing. If you have any dif
 [![contributors](https://contrib.rocks/image?repo=cumbucadev/generic-template)](https://github.com/cumbucadev/generic-template/graphs/contributors)
 
 [github-discussions-doc]: https://docs.github.com/discussions
-[github-discussions]: https://github.com/cumbucadev/<nome-do-repositório>/discussions
+[github-discussions]: https://github.com/cumbucadev/cumbuca-dev-floripa/discussions
 [github-issues-doc]: https://docs.github.com/issues/tracking-your-work-with-issues/creating-an-issue
-[github-issues]: https://github.com/cumbucadev/<nome-do-repositório>/issues
+[github-issues]: https://github.com/cumbucadev/cumbuca-dev-floripa/issues
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/cumbucadev/design/raw/main/images/logo-dark-transparent.png"
+    >
+    <img
+      alt="Logo do Cumbuca Dev"
+      src="https://github.com/cumbucadev/design/raw/main/images/logo-light-transparent.png"
+      width="20%"
+    >
+  </picture>
+</div>  
