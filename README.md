@@ -85,8 +85,8 @@ Certifique-se de ler esses arquivos com atenção antes de contribuir. Se tiver 
 
 ## ❤️ Quem já Contribuiu
 
-<a href="https://github.com/cumbucadev/generic-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=cumbucadev/generic-template" />
+<a href="https://github.com/cumbucadev/cumbuca-dev-floripa/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=cumbucadev/cumbuca-dev-floripa" />
 </a></br></br>
 
 _Made with [contrib.rocks](https://contrib.rocks)._

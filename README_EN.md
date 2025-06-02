@@ -81,7 +81,7 @@ Make sure to read these files carefully before contributing. If you have any dif
 
 ## ❤️ Contributors
 
-[![contributors](https://contrib.rocks/image?repo=cumbucadev/generic-template)](https://github.com/cumbucadev/generic-template/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=cumbucadev/cumbuca-dev-floripa)](https://github.com/cumbucadev/cumbuca-dev-floripa/graphs/contributors)
 
 [github-discussions-doc]: https://docs.github.com/discussions
 [github-discussions]: https://github.com/cumbucadev/cumbuca-dev-floripa/discussions
