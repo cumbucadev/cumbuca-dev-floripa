@@ -25,10 +25,11 @@ Este espaço foi criado para garantir **transparência** e **compartilhar inform
 
 ## 📌 Estrutura do repositório
 
+- `agradecimentos.md` → Mensagem de agradecimento coletivo a quem apoiou, participou ou contribuiu para a realização do evento.
 - `evento_codigo-de-conduta.md` → Regras de convivência e participação no evento.
-- `valores-recebidos.md` → Lista dos apoios e patrocínios recebidos (**em atualização**).
-- `gastos.md` → Prestação de contas detalhada dos custos do evento (**em atualização**).
-- `valores-arrecadados.md` → Relatório da arrecadação total no evento (**em atualização**).
+- `prestacao-de-contas.md` → Documento com todos os registros financeiros do evento: apoios, patrocínios, doações, vendas, arrecadação e prestação de contas completa.
+- `recursos.md` → Lista de fotos, vídeos e materiais do evento, incluindo a transmissão ao vivo e recursos adicionais.
+- `sorteios.md` → Registro de todos os sorteios realizados no evento, com lista de brindes, parcerias e pessoas ganhadoras.
 - `venda-iphones.md` → Informações sobre a venda exclusiva de iPhones, com valores especiais destinados integralmente ao financiamento do evento.
 
 ---
@@ -84,8 +85,8 @@ Certifique-se de ler esses arquivos com atenção antes de contribuir. Se tiver 
 
 ## ❤️ Quem já Contribuiu
 
-<a href="https://github.com/cumbucadev/generic-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=cumbucadev/generic-template" />
+<a href="https://github.com/cumbucadev/cumbuca-dev-floripa/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=cumbucadev/cumbuca-dev-floripa" />
 </a></br></br>
 
 _Made with [contrib.rocks](https://contrib.rocks)._
