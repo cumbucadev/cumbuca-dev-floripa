@@ -30,6 +30,7 @@ Este documento apresenta a **prestação de contas completa** do evento **Cumbuc
 | Janta Noite Maria                      | R$ 40,00  | Cartão             | Vence 05/06 |
 | Uber (Ferry -> Pousada)                | R$ 38,93  | Cartão             | Vence 05/06 |
 | Uber (Pousada -> Aeroporto)            | R$ 18,02  | Cartão             | Vence 05/06 |
+| Uber (Deslocamento Brindes Joinville)  | R$ 7,91   | Cartão             | Vence 05/06 |
 | Café da Manhã Maria                    | R$ 54,00  | Cartão             | Vence 05/06 |
 | Lanche Aeroporto CGH                   | R$ 34,00  | Cartão             | Vence 05/06 |
 | Passagem Ida Maria (Gol)               | R$ 676,41 | Cartão             | Vence 23/06 |
@@ -38,16 +39,16 @@ Este documento apresenta a **prestação de contas completa** do evento **Cumbuc
 | KRJ Plotagem                           | R$ 688,50 | PIX                | PAGO (R$ 570,00 retornam — adesivos Design Líquido) |
 | Salgadinhos KIKO                       | R$ 1.047,00 | PIX              | PAGO |
 
-**Total com adesivos Design Líquido:** **R$ 5.134,02**  
-**Total sem adesivos Design Líquido:** **R$ 4.564,02**  
+**Total com adesivos Design Líquido:** **R$ 5.141,93**  
+**Total sem adesivos Design Líquido:** **R$ 4.571,95**  
 
 ---
 
 ## ✅ Resumo financeiro
 
 - **Valor total arrecadado:** R$ 5.800,00  
-- **Total de gastos:** R$ 4.564,02  
-- **Saldo (lucro):** R$ **1.235,98**  
+- **Total de gastos:** R$ 4.571,95  
+- **Saldo (lucro):** **R$ 1.228,05**  
 
 ---
 
