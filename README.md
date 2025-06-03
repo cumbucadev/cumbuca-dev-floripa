@@ -2,11 +2,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="imagens/Cumbuca Dev Floripa0.png"
+      srcset="imagens/Cumbuca Dev Floripa.png"
     >
     <img
       alt="Logo do Cumbuca Dev"
-      src="imagens/Cumbuca Dev Floripa0.png"
+      src="imagens/Cumbuca Dev Floripa.png"
       width="100%"
     >
   </picture>
