@@ -25,12 +25,12 @@ Este espaço foi criado para garantir **transparência** e **compartilhar inform
 
 ## 📌 Estrutura do repositório
 
-- `agradecimentos.md` → Mensagem de agradecimento coletivo a quem apoiou, participou ou contribuiu para a realização do evento.
-- `evento_codigo-de-conduta.md` → Regras de convivência e participação no evento.
-- `prestacao-de-contas.md` → Documento com todos os registros financeiros do evento: apoios, patrocínios, doações, vendas, arrecadação e prestação de contas completa.
-- `recursos.md` → Lista de fotos, vídeos e materiais do evento, incluindo a transmissão ao vivo e recursos adicionais.
-- `sorteios.md` → Registro de todos os sorteios realizados no evento, com lista de brindes, parcerias e pessoas ganhadoras.
-- `venda-iphones.md` → Informações sobre a venda exclusiva de iPhones, com valores especiais destinados integralmente ao financiamento do evento.
+- `sobre-o-evento/agradecimentos.md` → Mensagem de agradecimento coletivo a quem apoiou, participou ou contribuiu para a realização do evento.
+- `sobre-o-evento/evento_codigo-de-conduta.md` → Regras de convivência e participação no evento.
+- `sobre-o-evento/prestacao-de-contas.md` → Documento com todos os registros financeiros do evento: apoios, patrocínios, doações, vendas, arrecadação e prestação de contas completa.
+- `sobre-o-evento/recursos.md` → Lista de fotos, vídeos e materiais do evento, incluindo a transmissão ao vivo e recursos adicionais.
+- `sobre-o-evento/sorteios.md` → Registro de todos os sorteios realizados no evento, com lista de brindes, parcerias e pessoas ganhadoras.
+- `sobre-o-evento/venda-iphones.md` → Informações sobre a venda exclusiva de iPhones, com valores especiais destinados integralmente ao financiamento do evento.
 
 ---
 

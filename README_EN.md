@@ -24,12 +24,12 @@ This space was created to ensure **transparency** and to **share important infor
 
 ## 📌 Repository Structure
 
-- `agradecimentos.md` → A thank you note to sponsors, supporters, speakers, and volunteers who made the event possible.
+- `sobre-o-evento/agradecimentos.md` → A thank you note to sponsors, supporters, speakers, and volunteers who made the event possible.
 - `evento_codigo-de-conduta.md`→ Rules of conduct and participation for the event.
-- `prestacao-de-contas.md` → Consolidated document with all financial records of the event: support, sponsorships, donations, sales, total revenue, and complete financial report.
-- `recursos.md` → Collection of photos, videos, livestream link, and additional materials from the event.
-- `sorteios.md` → Record of all giveaways, with a list of prizes, partners, and winners.
-- `venda-iphones.md` → Information about the exclusive iPhone sale, with special pricing entirely allocated to fund the event.
+- `sobre-o-evento/prestacao-de-contas.md` → Consolidated document with all financial records of the event: support, sponsorships, donations, sales, total revenue, and complete financial report.
+- `sobre-o-evento/recursos.md` → Collection of photos, videos, livestream link, and additional materials from the event.
+- `sobre-o-evento/sorteios.md` → Record of all giveaways, with a list of prizes, partners, and winners.
+- `sobre-o-evento/venda-iphones.md` → Information about the exclusive iPhone sale, with special pricing entirely allocated to fund the event.
 
 ---
 
